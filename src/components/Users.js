@@ -6,23 +6,23 @@ export default function Users () {
     <div className="right">
       <User src="https://a.d-cd.net/lIAAAgLQkuA-200.jpg" 
         alt="man" 
-        name="Антон" />
+        name="Anton" />
       <div className="users__block">
         <User src="https://trademaster.ua/im/pics/119514-MrDashevskiy4.jpg" 
           alt="man" 
-          name="Валера" 
+          name="Valera" 
           min/>
         <User src="http://www.rap.ru/img/news/b/12063.jpg?1566460446" 
           alt="man" 
-          name="Игорь" 
+          name="Egor" 
           min/>
         <User src="https://miro.medium.com/max/390/1*Bgd1hPDrMLv3k8eH4TJ9KQ.jpeg" 
           alt="man" 
-          name="Дмитрий" 
+          name="Dima" 
           min/>
         <User src="https://sun9-62.userapi.com/c856132/v856132006/f73d/VKm81lwmkpc.jpg" 
           alt="man" 
-          name="Мамед" 
+          name="Mamed" 
           min/>
       </div>
     </div>

@@ -5,10 +5,11 @@ export default class Post extends Component {
   render() {
     return (
       <div className="post">
-        <User src="https://a.d-cd.net/lIAAAgLQkuA-200.jpg" 
-        alt="man" 
-        name="Антон" 
-        min/>
+        <User 
+          src="https://a.d-cd.net/lIAAAgLQkuA-200.jpg" 
+          alt="man" 
+          name="Anton" 
+          min/>
         <img src={this.props.src} alt={this.props.alt}></img>
         <div className="post__name">
         какой-то аккаунт
