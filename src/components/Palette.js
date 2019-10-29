@@ -37,7 +37,7 @@ export default class Palette extends Component {
       const {src, alt} = item;
 
       return (
-        <img src={item.src} alt={item.alt}></img>
+        <img src={src} alt={alt}></img>
       )
     })
   }
