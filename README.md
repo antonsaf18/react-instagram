@@ -3,7 +3,7 @@
 -  Babel.
 
 ### Deployment.
-- Install Node.js
+- Install Node.js (node -v  [v10.17.0])
 - Clone the project and install the necessary dependencies:
 ```
 git clone https://github.com/antonsaf18/react-instagram.git
