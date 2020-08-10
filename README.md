@@ -20,3 +20,4 @@ json-server src/posts.json
 ```
 npm i react-router-dom -save
 ```
+<img style="width: 1150px" src="demo.gif" alt="">
